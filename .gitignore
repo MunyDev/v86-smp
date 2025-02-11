@@ -7,7 +7,6 @@ closure-compiler/
 images/
 *.bak
 *.orig
-*.wasm
 *.o
 *.bin
 *.img
